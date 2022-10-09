@@ -40,12 +40,10 @@ python3 -m venv env
 pip install -r requirements.txt
 ```
 
-## References
-
-- [Indian Pythonista](https://youtube.com/playlist?list=PL4vpFkgr0ykqjcOEwTGJaaM8YJhME85rX)
-- [Python Engineer](https://youtu.be/RpWeNzfSUHw)
-- [NeuralNine](https://youtu.be/1lwddP0KUEg)
-
 ## Author
 
-- [@projeshElEvEn](https://bit.ly/ElEvEnCo)
+- [@ambuj](https://github.com/ambuj-1211)
+- [@akshat](https://www.linkedin.com/in/akshat-dwivedi/)
+- [@anany](https://github.com/strangecod)
+- [@anshuman](https://github.com/anshuman-dwivedi)
+- [@projesh](https://bit.ly/ElEvEnCo)
