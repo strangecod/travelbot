@@ -1,0 +1,7 @@
+.env
+env/
+*.pyc
+words.pkl
+classes.pkl
+chatbot_model.h5
+runtime.txt
