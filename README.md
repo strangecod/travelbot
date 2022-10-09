@@ -46,4 +46,4 @@ pip install -r requirements.txt
 - [@akshat](https://www.linkedin.com/in/akshat-dwivedi/)
 - [@anany](https://github.com/strangecod)
 - [@anshuman](https://github.com/anshuman-dwivedi)
-- [@projesh](https://bit.ly/ElEvEnCo)
+- [@prajesh](https://bit.ly/ElEvEnCo)
